@@ -1,0 +1,7 @@
+mysql-connector==2.2.9
+mysql-connector-python==8.0.21
+requests==2.19.1
+pandas==0.23.4
+matplotlib
+wordcloud
+konlpy

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kr.co.swmaestro.seed.SeedApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.26 s - in kr.co.swmaestro.seed.SeedApplicationTests
